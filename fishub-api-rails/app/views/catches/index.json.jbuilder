@@ -1,0 +1,1 @@
+json.array! @catches, partial: 'catches/catch', as: :aCatch

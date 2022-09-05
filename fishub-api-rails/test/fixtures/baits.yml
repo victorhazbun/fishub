@@ -1,0 +1,9 @@
+fat_rap:
+  name: 'Fat Rap'
+  category: 'Crankbait'
+  image: 'fat-rap.png'
+
+yummy_gummy:
+  name: 'Yummy Gummy'
+  category: 'Softbait'
+  image: 'yummy-gummy.png'

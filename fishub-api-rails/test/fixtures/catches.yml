@@ -1,0 +1,20 @@
+one:
+  species: 'Rainbow Trout'
+  weight: 4.0
+  length: 21.0
+  bait: fat_rap
+  user: example
+
+two:
+  species: 'Brown Trout'
+  weight: 3.5
+  length: 18.5
+  bait: fat_rap
+  user: example
+
+three:
+  species: 'Walleye'
+  weight: 4.5
+  length: 10.0
+  bait: yummy_gummy
+  user: example
